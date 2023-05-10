@@ -149,16 +149,6 @@ section > p{
     }
 
     header img{
-        width: 98px;
-        height: 48px;
-    }
-}
-@media screen and (max-width: 375px) {
-    header ul li{
-        font-size: 1.7vw;
-    }
-
-    header img{
         width: 80px;
         height: 43px;
     }
