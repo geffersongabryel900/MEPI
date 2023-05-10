@@ -48,7 +48,7 @@ header img{
 }
 
 #saudacao > p{
-    padding-top: 4vh ;
+    padding-top: 0.5vh;
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
@@ -106,7 +106,7 @@ header img{
 }
 
 section{
-    padding-top:10vh ;
+    padding-top: 0.5vh ;
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
@@ -133,12 +133,12 @@ section > p{
 
 @media screen and (max-width: 824px) {
     header ul li{
-        font-size: 2vw;
+        font-size: 1.5vw;
     }
 
     header img{
-        width: 100px;
-        height: 50px;
+        width: 98px;
+        height: 48px;
     }
 
 }
