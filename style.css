@@ -17,7 +17,6 @@ body{
 header{
     color: white;
     text-align: right;
-    justify-content: space-between;
 }
 
 header img{
@@ -120,6 +119,11 @@ section > p{
     padding-bottom: 2em;
 }
 
+section > p > a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.699);
+}
+
 @media screen and (max-width: 1064px) {
     header ul li{
         font-size: 1.5vw;
@@ -129,6 +133,7 @@ section > p{
         width: 100px;
         height: 50px;
     }
+
 }
 
 @media screen and (max-width: 824px) {
