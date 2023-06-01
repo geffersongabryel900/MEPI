@@ -20,7 +20,7 @@ header{
 }
 
 header img{
-    height: 55px;
+    height: 60px;
 }
 
 #icone{
@@ -48,7 +48,7 @@ header img{
 
 #saudacao > p{
     padding-top: 0.5vh;
-    padding-bottom: 2vh;
+    padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
     padding-right: 30px;
@@ -135,8 +135,8 @@ header > iframe{
     }
 
     header img{
-        width: 100px;
-        height: 50px;
+        width: 58px;
+        height: 58px;
     }
 
     header > div > iframe{
@@ -151,8 +151,8 @@ header > iframe{
     }
 
     header img{
-        width: 98px;
-        height: 48px;
+        width: 50px;
+        height: 51px;
     }
 
     header > div > iframe{
@@ -167,8 +167,8 @@ header > iframe{
     }
 
     header img{
-        width: 80px;
-        height: 43px;
+        width: 50px;
+        height: 50px;
     }
 
     #icone{
