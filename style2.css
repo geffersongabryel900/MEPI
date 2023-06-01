@@ -43,7 +43,7 @@ header img{
 #saudacao{
     text-align: center;
     font-family: var(--font3);
-    font-size: 16px; /* Adapta pela Largura do navegador */
+    font-size: 26px; /* Adapta pela Largura do navegador */
 }
 
 #saudacao > p{
@@ -187,6 +187,12 @@ header > iframe{
         width: 300px;
         height: 150px;
     }
+
+    header{
+        color: white;
+        text-align: right;
+        height: 420px;
+    }
 }
 
 @media screen and (max-width: 575px) {
@@ -202,5 +208,11 @@ header > iframe{
     #icone{
         position: absolute;
         left:25px;
+    }
+
+    header{
+        color: white;
+        text-align: right;
+        height: 325px;
     }
 }
