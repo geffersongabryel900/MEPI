@@ -187,12 +187,6 @@ header > iframe{
         width: 300px;
         height: 150px;
     }
-
-    header{
-        color: white;
-        text-align: right;
-        height: 420px;
-    }
 }
 
 @media screen and (max-width: 575px) {
@@ -208,11 +202,5 @@ header > iframe{
     #icone{
         position: absolute;
         left:25px;
-    }
-
-    header{
-        color: white;
-        text-align: right;
-        height: 335px;
     }
 }
