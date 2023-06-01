@@ -43,7 +43,7 @@ header img{
 #saudacao{
     text-align: center;
     font-family: var(--font3);
-    font-size: 16px; /* Adapta pela Largura do navegador */
+    font-size: 26px; /* Adapta pela Largura do navegador */
 }
 
 #saudacao > p{
